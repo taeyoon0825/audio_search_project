@@ -1,0 +1,6 @@
+# Optional local-only dependencies for rebuilding the dummy dataset.
+# ffmpeg is still required as a separate system install for some TTS flows.
+edge-tts==7.2.8
+gTTS==2.5.4
+openai-whisper==20250625
+pyttsx3==2.99
